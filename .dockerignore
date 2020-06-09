@@ -10,3 +10,7 @@ docker-compose
 .buildkite
 # ignore .github to avoid commiting sensitive info
 .github
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore
